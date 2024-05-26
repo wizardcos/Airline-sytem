@@ -12,3 +12,8 @@ Admin can add new flight Admin can remove flight Admin can update flight schedul
 Admin can remove passenger booking
 Admin can manage his profile
 Admin can manage passengers
+
+
+credentials for admin can be change from line 65 69 from admin menu page
+
+now for admin    username "   Taha ijaz " password "   1234# "
