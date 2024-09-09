@@ -15,5 +15,6 @@ Admin can manage passengers
 
 
 credentials for admin can be change from line 65 69 from admin menu page
+a university project in java covering the concepts of Oop as well some Data structure
 
 now for admin    username "   Taha ijaz " password "   1234# "
