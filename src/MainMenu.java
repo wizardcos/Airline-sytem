@@ -55,7 +55,7 @@ public class MainMenu extends JFrame {
 		
 		panel.add(panel2);
 		
-		obj1 = new Admin("Eman asgher","1234","female");
+		obj1 = new Admin("subhan","1234","male");
 		listAdmin.add(obj1);
 		obj2 = new Admin("Taha ijaz","1234#","Male");
 		listAdmin.add(obj2);
